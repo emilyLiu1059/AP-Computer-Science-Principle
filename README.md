@@ -1,4 +1,4 @@
-#### This was one of the projects in “AP Computer Science Principles” course.
+#### This was one of the projects in “AP Computer Science Principles” course in High school in 2022
 # Assignment
 ## Create a filter to transform digital images by programmatically manipulating pixels.
 ### Pair Programming
