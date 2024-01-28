@@ -36,4 +36,4 @@ Over the course of this module and this project, you will learn to:
 - create and modify digital audio
 - analyze the costs and benefits of encoding schemes
 - evaluate ethical practices related to digital media production, consumption, and ownership
-evaluate ethical practices related to digital media production, consumption, and ownership
+<p style='color:red'>This is some red text.</p>
