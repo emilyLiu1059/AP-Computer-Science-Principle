@@ -1,6 +1,6 @@
 #### This was one of the projects in “AP Computer Science Principles” course in High school in 2022
 # Assignment
-## Create a filter to transform digital images by programmatically manipulating pixels.
+### Create a filter to transform digital images by programmatically manipulating pixels.
 ### Pair Programming
 Working in pairs, your task is to design and develop a program for filtering digital images. More specifically, you must use the Python programming language to code a program capable of systematically transforming an image by mathematically manipulating its bits. Your program must perform transformations on images programmatically, save the manipulated results, and allow users to customize the filters. How will your image filter program function? What image features, attributes, and representations will it transform, and how will it transform them? As you work through this module, continuously think about how the skills and knowledge you gain may apply to your project.
 
