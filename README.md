@@ -7,9 +7,9 @@ Working in pairs, your task is to design and develop a program for filtering dig
 
 Your submission will be an original program coded with the Python language.
 Your image filter program must:
-- Create three filters each of which manipulates the image at the pixel level. These filters must mathematically manipulate the RGB channels of each pixel. The mathematical calculation may NOT be one simple operation such as add, subtract, divide, or multiply. It may NOT be as simple as taking one of the colors out (setting the value to 0). The filters must be complex.
-- Of the three filters you create, two must incorporate user input into the code to create the filter.
-- Use Python constructs to accomplish these tasks, including:
+- Create three filters each of which manipulates the image at the **pixel level**. These filters must mathematically manipulate the RGB channels of each pixel. The mathematical calculation may NOT be one simple operation such as add, subtract, divide, or multiply. It may NOT be as simple as taking one of the colors out (setting the value to 0). The filters must be complex.
+- Of the three filters you create, two must incorporate **user input** into the code to create the filter.
+- **Use Python constructs** to accomplish these tasks, including:
   - creating functions
   - using selection (if/elif/else)
   - using iteration (while and for )
@@ -17,9 +17,9 @@ Your image filter program must:
 - Use a list (or other collection type) to represent a collection of data (in this case, individual pixels of an image) that is stored and used to manage program complexity and help fulfill the program’s purpose.
   
 #### In addition, you will complete written responses that include:
-- a description of the overall purpose of the program,
-- a description of the program input and output,
-- two program code segments:
+- a description of the overall **purpose** of the program,
+- a description of the program **input** and **output**,
+- two **program code segments**:
   - The first program code segment must show how data have been stored in the list.
   - The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program’s purpose.
 - a description of the name of the list being used,
